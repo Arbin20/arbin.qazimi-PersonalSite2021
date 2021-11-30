@@ -5,9 +5,11 @@ import profileImageDark from '../../assets/arbin1.jpg';
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  height: 70vh;
+  height: 100vh;
   justify-content: center;
   align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 
   color: white;
   text-transform: uppercase;
