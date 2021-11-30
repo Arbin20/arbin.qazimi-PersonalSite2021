@@ -3,7 +3,6 @@ import React, { useContext } from 'react';
 import {
   FaGithub,
   FaLinkedinIn,
-  FaFacebook,
   FaInstagramSquare,
 } from 'react-icons/fa';
 
