@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
     <div id="contact">
       <Container>
         <SectionTitle>
-          <h1>You wanna talk? </h1>
+          <h1>Social Media </h1>
         </SectionTitle>
 
         <h2>arbin.qazimi@outlook.com</h2>
