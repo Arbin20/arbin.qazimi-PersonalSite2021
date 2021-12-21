@@ -83,12 +83,7 @@ const Skills: React.FC = () => {
         <CardContainer>
           <h1>Team Work</h1>
           <p>
-            Since I was a child I like team work. With the participation in an
-            association, this aspect was always growing within me. When I
-            entered the worl of work, I only saw good things and when we create
-            a good relationship and when we help each other, regardless of the
-            area of work (backend/frontend, p.e.), to take the project on the
-            right path.
+            Since I was a child I like teamwork. With the participation in an association, this aspect was always growing within me. When I entered the world of work, I only say good things and when we create a good relationship and when we help each other, regardless of the area of work (backend/frontend, p.e.), to take the project on the right path.
           </p>
         </CardContainer>
       </Container>
