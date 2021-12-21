@@ -3,7 +3,6 @@ import Particles from 'react-tsparticles';
 import { ThemeContext } from 'styled-components';
 import { Container } from './styles';
 import Header from '../../components/Header';
-import Photo from '../../components/Photo';
 import About from '../../components/About';
 import Skills from '../../components/Skills';
 import Projects from '../../components/Projects';
@@ -93,7 +92,7 @@ const Home: React.FC = () => {
           }}
         />
         <Header />
-        <Photo />
+    
         <Projects />
         <About />
         <Skills />
