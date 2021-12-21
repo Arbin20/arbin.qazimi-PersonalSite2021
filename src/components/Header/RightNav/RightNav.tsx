@@ -43,11 +43,6 @@ const RightNav: React.FC<RightNavProps> = ({ open, setOpen }) => {
   return (
     <Container open={open}>
       <li>
-        <Link to="/home" onClick={handleClickHome}>
-          Home
-        </Link>
-      </li>
-      <li>
         <Link to="/home" onClick={handleClickProjects}>
           Projects
         </Link>
