@@ -13,6 +13,7 @@ const Home: React.FC = () => {
   const { colors } = useContext(ThemeContext);
   return (
     <>
+    
       <Container>
         <Particles
           params={{
