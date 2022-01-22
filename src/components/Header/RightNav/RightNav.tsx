@@ -72,13 +72,6 @@ const RightNav: React.FC<RightNavProps> = ({ open, setOpen }) => {
           Contact
         </Link>
       </li>
-      <li>
-      <a
-       href ="https://file.io/T4frRH4zUwKd"
-       target="_blank"
-       rel="noopener noreferrer">
-       Download CV</a>
-       </li>
       <SocialNetWork>
         <li>
           <a
